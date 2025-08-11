@@ -21,7 +21,9 @@ This is my personal portfolio showcasing my projects, skills, and experience in 
 - Unity game prototypes  
 
 ## 📬 Contact
-- **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/](https://www.linkedin.com/in/zendrex-adversalo-1abb69355/))  
-- **GitHub:** [Your GitHub Profile]([https://github.com/](https://github.com/zendrexx))  
-- **Email:** zendrex.dev@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/zendrex-adversalo-1abb69355/](https://www.linkedin.com/in/zendrex-adversalo-1abb69355/)  
+- **GitHub:** [https://github.com/zendrexx](https://github.com/zendrexx)  
+- **Email:** zendrex.dev@gmail.com
+
+
 
