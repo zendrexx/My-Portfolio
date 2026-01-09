@@ -12,18 +12,17 @@ This is my personal portfolio showcasing my projects, skills, and experience in 
 - Flutter / Dart  
 - HTML / CSS / JavaScript (for web portfolio)  
 - JavaFX  
-- Unity (C#)  
 
 ## 📂 Projects Highlighted
 - Flutter apps (mobile + web)  
 - Web applications  
 - JavaFX desktop apps  
-- Unity game prototypes  
 
 ## 📬 Contact
 - **LinkedIn:** [https://www.linkedin.com/in/zendrex-adversalo-1abb69355/](https://www.linkedin.com/in/zendrex-adversalo-1abb69355/)  
 - **GitHub:** [https://github.com/zendrexx](https://github.com/zendrexx)  
 - **Email:** zendrex.dev@gmail.com
+
 
 
 
